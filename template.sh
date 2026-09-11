@@ -10,7 +10,7 @@ touch src/helper.py
 touch .env
 touch src/prompt.py
 touch src/app.py
-touch src/setup.py
+touch setup.py
 touch research/trials.ipynb
 touch requirements.txt
 
